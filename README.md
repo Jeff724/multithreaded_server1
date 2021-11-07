@@ -1,7 +1,7 @@
 <!----- Conversion time: 0.718 seconds.
 Using this Markdown file:
 
-1. Cut and paste this output into your source file.
+1. Cut and paste this output into your source file. 
 2. See the notes and action items below regarding this conversion run.
 3. Check the rendered output (headings, lists, code blocks, tables) for proper
    formatting and use a linkchecker before you publish this page.
